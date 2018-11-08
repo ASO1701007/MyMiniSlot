@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMiniSlot</string>
+    <string name="btn1">手持ちリセット</string>
+    <string name="btn_str">スタート</string>
+    <string name="btn_up">掛け金アップ</string>
+    <string name="btn_dw">掛け金ダウン</string>
+    <string name="btn_back">戻る</string>
+    <string name="mone">1000</string>
+    <string name="bet">10</string>
+    <string name="btn_bit">掛け金</string>
+</resources>
